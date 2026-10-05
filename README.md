@@ -1,7 +1,7 @@
 # Badgers
 a [Nuvio](https://github.com/NuvioMedia) badges collection that was made with love, not with claude code... ⏰
 cause... we hate AI slop, don't we?
-fork of [Kingsize's badges](https://github.com/kingsizew/badges) (just used for base to which badges to make)
+fork of [Kingsize's badges](https://github.com/kingsizew/badges) (just used for base to which badges i had to make)
 > [!NOTE]
 > This badge collection is not out yet, and using any of the JSONs found here will just use Kingsize
 ## Types of the badges
