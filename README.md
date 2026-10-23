@@ -1,6 +1,7 @@
 # Badgers
-a [Nuvio](https://github.com/NuvioMedia) badges collection that was made with love, not with claude code... ⏰
+a [Nuvio](https://github.com/NuvioMedia) badges collection that was designed by a human, not by ChatGPT Luna ... ⏰
 cause... we hate AI slop, don't we?
+> I have to say that, even tho this project mentions AI hate, Claude Code was used to bring this to life. I simply don't understand GitHub. But hey, atleast the badges are human, not like SOME other badge collections that are 100% AI made!
 fork of [Kingsize's badges](https://github.com/kingsizew/badges) (just used for base to which badges i had to make)
 > [!NOTE]
 > This badge collection is not out yet, and using any of the JSONs found here will just use Kingsize
