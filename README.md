@@ -24,6 +24,8 @@ Ooooh, it's no longer Type 1!! It's gonna be so exciting!!<br>Not really :(<br>J
 - Languages
 - Subtitle Languages
 
+# Get your badges.... I know you want them...
+Just copy the link to the following and add them in Nuvio<br>On mobile, go to Settings > Layout > Streams > Fusion badge URLs<br>Or if you're on a desktop
 
-Appreciation message for Kingsize, for making the foundation of this badge collection💕💕
+random appreciation message for Kingsize, for making the foundation of this badge collection
 > psst... do you want a type 3? a version without streaming badges? tell me!
