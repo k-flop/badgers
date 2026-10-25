@@ -5,7 +5,7 @@ cause... we hate AI slop, don't we?
 
 fork of [Kingsize's badges](https://github.com/kingsizew/badges) (just used for base to which badges i had to make)
 > [!NOTE]
-> All JSONs in this repo now point to the Badgers images in this repo (`badge-images/`), no longer to Kingsize's.
+> If you're lazy enough, [click here](#get-your-badges-i-know-you-want-them) to see links to the badges
 ## Types of the badges
 Badgers come in two versions (1 and 2) with two variants (white and color). Four in total.
 ### Type1Color
@@ -30,6 +30,26 @@ The same as [Type2Color](https://github.com/k-flop/badgers#type2color) but white
 
 # Get your badges.... I know you want them...
 Just copy the link to the following and add them in Nuvio<br>On mobile, go to Settings > Layout > Streams > Fusion badge URLs<br>Or if you're on a desktop
+
+### All collection links
+
+**Type1Color**
+- Color outline: color badges, transparent tag, colored border<br>`https://raw.githubusercontent.com/k-flop/badgers/main/colored_outline_badges.json`
+- Tinted: color badges on a faint tinted fill<br>`https://raw.githubusercontent.com/k-flop/badgers/main/tinted_badges.json`
+
+**Type1White**
+- White outline on dark<br>`https://raw.githubusercontent.com/k-flop/badgers/main/white_badges.json`
+- White badges with colored borders<br>`https://raw.githubusercontent.com/k-flop/badgers/main/badge.json`
+- White badges on a solid black tag<br>`https://raw.githubusercontent.com/k-flop/badgers/main/black_badges.json`
+
+**Type2Color**
+- Color outline<br>`https://raw.githubusercontent.com/k-flop/badgers/main/colored_outline_badges_v2.json`
+- Tinted<br>`https://raw.githubusercontent.com/k-flop/badgers/main/tinted_badges_v2.json`
+
+**Type2White**
+- White outline on dark<br>`https://raw.githubusercontent.com/k-flop/badgers/main/white_badges_v2.json`
+- White badges with colored borders<br>`https://raw.githubusercontent.com/k-flop/badgers/main/badge_v2.json`
+- White badges on a solid black tag<br>`https://raw.githubusercontent.com/k-flop/badgers/main/black_badges_v2.json`
 
 random appreciation message for Kingsize, for making the foundation of this badge collection
 > psst... do you want a type 3? a version without streaming badges? tell me!
