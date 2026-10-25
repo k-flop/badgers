@@ -19,10 +19,14 @@ A color variant with
 - and IMAX?
 ### Type1White
 The same as [Type1Color](https://github.com/k-flop/badgers/#type1color), but white... obviously 
-### Type2White
+### Type2Color
 Ooooh, it's no longer Type 1!! It's gonna be so exciting!!<br>Not really :(<br>Just two more additions
 - Languages
 - Subtitle Languages
+### Type2White
+You're gonna be surprised when I say this...........
+
+The same as [Type2Color](https://github.com/k-flop/badgers#type2color) but white
 
 # Get your badges.... I know you want them...
 Just copy the link to the following and add them in Nuvio<br>On mobile, go to Settings > Layout > Streams > Fusion badge URLs<br>Or if you're on a desktop
