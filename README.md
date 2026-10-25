@@ -9,6 +9,8 @@ fork of [Kingsize's badges](https://github.com/kingsizew/badges) (just used for 
 ## Types of the badges
 Badgers come in two versions (1 and 2) with two variants (white and color). Four in total.
 ### Type1Color
+<img src="docs/previews/type1-color.png" alt="Type1Color badges" width="100%">
+
 A color variant with
 - Visual
 - Quality
@@ -18,12 +20,18 @@ A color variant with
 - Streaming platforms
 - and IMAX?
 ### Type1White
+<img src="docs/previews/type1-white.png" alt="Type1White badges" width="100%">
+
 The same as [Type1Color](https://github.com/k-flop/badgers/#type1color), but white... obviously 
 ### Type2Color
+<img src="docs/previews/type2-color.png" alt="Type2Color badges" width="100%">
+
 Ooooh, it's no longer Type 1!! It's gonna be so exciting!!<br>Not really :(<br>Just two more additions
 - Languages
 - Subtitle Languages
 ### Type2White
+<img src="docs/previews/type2-white.png" alt="Type2White badges" width="100%">
+
 You're gonna be surprised when I say this...........
 
 The same as [Type2Color](https://github.com/k-flop/badgers#type2color) but white
