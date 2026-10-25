@@ -5,7 +5,7 @@ cause... we hate AI slop, don't we?
 
 fork of [Kingsize's badges](https://github.com/kingsizew/badges) (just used for base to which badges i had to make)
 > [!NOTE]
-> This badge collection is not out yet, and using any of the JSONs found here will just use Kingsize
+> All JSONs in this repo now point to the Badgers images in this repo (`badge-images/`), no longer to Kingsize's.
 ## Types of the badges
 Badgers come in two versions (1 and 2) with two variants (white and color). Four in total.
 ### Type1Color
