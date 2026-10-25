@@ -73,7 +73,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‍‍‌‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/resolution/4k-blue.png",
       "tagColor": "#00000000",
-      "borderColor": "#FFD500",
+      "borderColor": "#00000000",
       "textColor": "#FFD500",
       "tagStyle": "bordered",
       "type": "filter"
@@ -86,7 +86,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‍‍‌‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/resolution/1440p-blue.png",
       "tagColor": "#00000000",
-      "borderColor": "#176BE8",
+      "borderColor": "#00000000",
       "textColor": "#176BE8",
       "tagStyle": "bordered",
       "type": "filter"
@@ -99,7 +99,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‍‍‌‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/resolution/1080p-blue.png",
       "tagColor": "#00000000",
-      "borderColor": "#2EB853",
+      "borderColor": "#00000000",
       "textColor": "#2EB853",
       "tagStyle": "bordered",
       "type": "filter"
@@ -112,7 +112,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‍‍‍‌‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/resolution/720p-blue.png",
       "tagColor": "#00000000",
-      "borderColor": "#FF7300",
+      "borderColor": "#00000000",
       "textColor": "#FF7300",
       "tagStyle": "bordered",
       "type": "filter"
@@ -125,7 +125,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‍‍‍‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/resolution/576p-blue.png",
       "tagColor": "#00000000",
-      "borderColor": "#E64141",
+      "borderColor": "#00000000",
       "textColor": "#E64141",
       "tagStyle": "bordered",
       "type": "filter"
@@ -138,7 +138,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‍‍‍‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/resolution/480p-blue.png",
       "tagColor": "#00000000",
-      "borderColor": "#E64141",
+      "borderColor": "#00000000",
       "textColor": "#E64141",
       "tagStyle": "bordered",
       "type": "filter"
@@ -151,7 +151,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‍‍‍‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/resolution/360p-blue.png",
       "tagColor": "#00000000",
-      "borderColor": "#E64141",
+      "borderColor": "#00000000",
       "textColor": "#E64141",
       "tagStyle": "bordered",
       "type": "filter"
@@ -164,7 +164,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‍‌‌‌‌‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/resolution/240p-blue.png",
       "tagColor": "#00000000",
-      "borderColor": "#E64141",
+      "borderColor": "#00000000",
       "textColor": "#E64141",
       "tagStyle": "bordered",
       "type": "filter"
@@ -177,7 +177,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‍‌‌‌‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/resolution/144p-blue.png",
       "tagColor": "#00000000",
-      "borderColor": "#E64141",
+      "borderColor": "#00000000",
       "textColor": "#E64141",
       "tagStyle": "bordered",
       "type": "filter"
@@ -190,7 +190,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‍‌‌‌‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/quality/remux-purple.png",
       "tagColor": "#00000000",
-      "borderColor": "#FFD500",
+      "borderColor": "#00000000",
       "textColor": "#FFD500",
       "tagStyle": "bordered",
       "type": "filter"
@@ -203,7 +203,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‍‌‌‌‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/quality/bluray-purple.png",
       "tagColor": "#00000000",
-      "borderColor": "#176BE8",
+      "borderColor": "#00000000",
       "textColor": "#176BE8",
       "tagStyle": "bordered",
       "type": "filter"
@@ -216,7 +216,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‍‌‌‍‌‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/quality/web-dl-purple.png",
       "tagColor": "#00000000",
-      "borderColor": "#2EB853",
+      "borderColor": "#00000000",
       "textColor": "#2EB853",
       "tagStyle": "bordered",
       "type": "filter"
@@ -229,7 +229,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‍‌‌‍‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/quality/webrip-purple.png",
       "tagColor": "#00000000",
-      "borderColor": "#FF7300",
+      "borderColor": "#00000000",
       "textColor": "#FF7300",
       "tagStyle": "bordered",
       "type": "filter"
@@ -242,7 +242,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‍‌‌‍‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/quality/hdrip-purple.png",
       "tagColor": "#00000000",
-      "borderColor": "#FF7300",
+      "borderColor": "#00000000",
       "textColor": "#FF7300",
       "tagStyle": "bordered",
       "type": "filter"
@@ -255,7 +255,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‍‌‌‍‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/quality/hc-hdrip-purple.png",
       "tagColor": "#00000000",
-      "borderColor": "#FF7300",
+      "borderColor": "#00000000",
       "textColor": "#FF7300",
       "tagStyle": "bordered",
       "type": "filter"
@@ -268,7 +268,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‍‌‍‌‌‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/quality/dvdrip-purple.png",
       "tagColor": "#00000000",
-      "borderColor": "#FF7300",
+      "borderColor": "#00000000",
       "textColor": "#FF7300",
       "tagStyle": "bordered",
       "type": "filter"
@@ -281,7 +281,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‍‌‍‌‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/quality/hdtv-purple.png",
       "tagColor": "#00000000",
-      "borderColor": "#E64141",
+      "borderColor": "#00000000",
       "textColor": "#E64141",
       "tagStyle": "bordered",
       "type": "filter"
@@ -294,7 +294,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‍‌‍‌‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/quality/scr-purple.png",
       "tagColor": "#00000000",
-      "borderColor": "#E64141",
+      "borderColor": "#00000000",
       "textColor": "#E64141",
       "tagStyle": "bordered",
       "type": "filter"
@@ -307,7 +307,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‍‌‍‌‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/quality/tc-purple.png",
       "tagColor": "#00000000",
-      "borderColor": "#E64141",
+      "borderColor": "#00000000",
       "textColor": "#E64141",
       "tagStyle": "bordered",
       "type": "filter"
@@ -320,7 +320,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‍‌‍‍‌‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/quality/ts-purple.png",
       "tagColor": "#00000000",
-      "borderColor": "#E64141",
+      "borderColor": "#00000000",
       "textColor": "#E64141",
       "tagStyle": "bordered",
       "type": "filter"
@@ -333,7 +333,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‍‌‍‍‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/quality/cam-purple.png",
       "tagColor": "#00000000",
-      "borderColor": "#E64141",
+      "borderColor": "#00000000",
       "textColor": "#E64141",
       "tagStyle": "bordered",
       "type": "filter"
@@ -347,7 +347,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/imax/imax-enhanced-violet.png",
       "tagColor": "#00000000",
       "textColor": "#FFD500",
-      "borderColor": "#FFD500",
+      "borderColor": "#00000000",
       "tagStyle": "bordered",
       "type": "filter"
     },
@@ -360,7 +360,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/imax/imax-violet.png",
       "tagColor": "#00000000",
       "textColor": "#176BE8",
-      "borderColor": "#176BE8",
+      "borderColor": "#00000000",
       "tagStyle": "bordered",
       "type": "filter"
     },
@@ -372,7 +372,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‌‌‌‌‍⁤)(?=.*⁣‌‌‌‌‌‌‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/visual/dolby-vision-hdr10-plus-light-blue.png",
       "tagColor": "#00000000",
-      "borderColor": "#FFD500",
+      "borderColor": "#00000000",
       "textColor": "#FFD500",
       "tagStyle": "bordered",
       "type": "filter"
@@ -385,7 +385,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‌‌‌‌‍⁤)(?=.*⁣‌‌‌‌‌‌‍‍⁤)(?!.*(?:⁣‌‌‌‌‌‌‍‌⁤))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/visual/dolby-vision-hdr10-light-blue.png",
       "tagColor": "#00000000",
-      "borderColor": "#FFD500",
+      "borderColor": "#00000000",
       "textColor": "#FFD500",
       "tagStyle": "bordered",
       "type": "filter"
@@ -398,7 +398,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‌‌‌‌‍⁤)(?=.*⁣‌‌‌‌‌‍‌‌⁤)(?!.*(?:⁣‌‌‌‌‌‌‍‌⁤|⁣‌‌‌‌‌‌‍‍⁤))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/visual/dolby-vision-hdr-light-blue.png",
       "tagColor": "#00000000",
-      "borderColor": "#FFD500",
+      "borderColor": "#00000000",
       "textColor": "#FFD500",
       "tagStyle": "bordered",
       "type": "filter"
@@ -411,7 +411,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‌‌‌‌‍⁤)(?!.*(?:⁣‌‌‌‌‌‌‍‌⁤|⁣‌‌‌‌‌‌‍‍⁤|⁣‌‌‌‌‌‍‌‌⁤))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/visual/dolby-vision-light-blue.png",
       "tagColor": "#00000000",
-      "borderColor": "#FFD500",
+      "borderColor": "#00000000",
       "textColor": "#FFD500",
       "tagStyle": "bordered",
       "type": "filter"
@@ -424,7 +424,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‌‌‌‍‌⁤)(?!.*(?:⁣‌‌‌‌‌‌‌‍⁤))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/visual/hdr10-plus-light-blue.png",
       "tagColor": "#00000000",
-      "borderColor": "#FFD500",
+      "borderColor": "#00000000",
       "textColor": "#FFD500",
       "tagStyle": "bordered",
       "type": "filter"
@@ -437,7 +437,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‌‌‌‍‍⁤)(?!.*(?:⁣‌‌‌‌‌‌‌‍⁤|⁣‌‌‌‌‌‌‍‌⁤))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/visual/hdr10-light-blue.png",
       "tagColor": "#00000000",
-      "borderColor": "#176BE8",
+      "borderColor": "#00000000",
       "textColor": "#176BE8",
       "tagStyle": "bordered",
       "type": "filter"
@@ -450,7 +450,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‌‌‍‌‍⁤)(?!.*(?:⁣‌‌‌‌‌‌‌‍⁤|⁣‌‌‌‌‌‌‍‌⁤|⁣‌‌‌‌‌‌‍‍⁤|⁣‌‌‌‌‌‍‌‌⁤))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/visual/hlg-light-blue.png",
       "tagColor": "#00000000",
-      "borderColor": "#FF7300",
+      "borderColor": "#00000000",
       "textColor": "#FF7300",
       "tagStyle": "bordered",
       "type": "filter"
@@ -463,7 +463,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‌‌‍‍‌⁤)(?!.*(?:⁣‌‌‌‌‌‌‌‍⁤|⁣‌‌‌‌‌‌‍‌⁤|⁣‌‌‌‌‌‌‍‍⁤|⁣‌‌‌‌‌‍‌‌⁤|⁣‌‌‌‌‌‍‌‍⁤))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/visual/10bit-light-blue.png",
       "tagColor": "#00000000",
-      "borderColor": "#FF7300",
+      "borderColor": "#00000000",
       "textColor": "#FF7300",
       "tagStyle": "bordered",
       "type": "filter"
@@ -476,7 +476,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‌‌‍‍‍⁤)(?!.*(?:⁣‌‌‌‌‌‌‌‍⁤|⁣‌‌‌‌‌‌‍‌⁤|⁣‌‌‌‌‌‌‍‍⁤|⁣‌‌‌‌‌‍‌‌⁤|⁣‌‌‌‌‌‍‌‍⁤|⁣‌‌‌‌‌‍‍‌⁤))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/visual/sdr-light-blue.png",
       "tagColor": "#00000000",
-      "borderColor": "#FF7300",
+      "borderColor": "#00000000",
       "textColor": "#FF7300",
       "tagStyle": "bordered",
       "type": "filter"
@@ -489,7 +489,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‌‍‌‌‌⁤)(?!.*(?:⁣‌‌‌‌‌‌‌‍⁤|⁣‌‌‌‌‌‌‍‌⁤|⁣‌‌‌‌‌‌‍‍⁤|⁣‌‌‌‌‌‍‌‌⁤|⁣‌‌‌‌‌‍‌‍⁤|⁣‌‌‌‌‌‍‍‌⁤|⁣‌‌‌‌‌‍‍‍⁤))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/visual/ai-light-blue.png",
       "tagColor": "#00000000",
-      "borderColor": "#E64141",
+      "borderColor": "#00000000",
       "textColor": "#E64141",
       "tagStyle": "bordered",
       "type": "filter"
@@ -502,7 +502,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‌‍‌‌‍⁤)(?=.*⁣‌‌‌‍‌‌‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/audio/dolby-atmos-truehd-lime.png",
       "tagColor": "#00000000",
-      "borderColor": "#FFD500",
+      "borderColor": "#00000000",
       "textColor": "#FFD500",
       "tagStyle": "bordered",
       "type": "filter"
@@ -515,7 +515,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‌‍‍‌‌⁤)(?=.*⁣‌‌‌‌‍‍‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/audio/dts-x-hd-ma-lime.png",
       "tagColor": "#00000000",
-      "borderColor": "#FFD500",
+      "borderColor": "#00000000",
       "textColor": "#FFD500",
       "tagStyle": "bordered",
       "type": "filter"
@@ -528,7 +528,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‌‍‌‌‍⁤)(?=.*⁣‌‌‌‌‍‌‍‌⁤)(?!.*(?:⁣‌‌‌‍‌‌‌‍⁤))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/audio/dolby-atmos-digital-plus-lime.png",
       "tagColor": "#00000000",
-      "borderColor": "#176BE8",
+      "borderColor": "#00000000",
       "textColor": "#176BE8",
       "tagStyle": "bordered",
       "type": "filter"
@@ -541,7 +541,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‌‍‍‌‌⁤)(?=.*⁣‌‌‌‌‍‍‍‌⁤)(?!.*(?:⁣‌‌‌‌‍‍‌‍⁤))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/audio/dts-x-hd-lime.png",
       "tagColor": "#00000000",
-      "borderColor": "#176BE8",
+      "borderColor": "#00000000",
       "textColor": "#176BE8",
       "tagStyle": "bordered",
       "type": "filter"
@@ -554,7 +554,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‌‍‍‌‌⁤)(?!.*(?:⁣‌‌‌‌‍‍‌‍⁤|⁣‌‌‌‌‍‍‍‌⁤))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/audio/dts-x-lime.png",
       "tagColor": "#00000000",
-      "borderColor": "#176BE8",
+      "borderColor": "#00000000",
       "textColor": "#176BE8",
       "tagStyle": "bordered",
       "type": "filter"
@@ -567,7 +567,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‍‌‌‌‍⁤)(?!.*(?:⁣‌‌‌‌‍‌‌‍⁤))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/audio/dolby-truehd-lime.png",
       "tagColor": "#00000000",
-      "borderColor": "#176BE8",
+      "borderColor": "#00000000",
       "textColor": "#176BE8",
       "tagStyle": "bordered",
       "type": "filter"
@@ -580,7 +580,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‌‍‍‌‍⁤)(?!.*(?:⁣‌‌‌‌‍‍‌‌⁤))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/audio/dts-hd-ma-lime.png",
       "tagColor": "#00000000",
-      "borderColor": "#176BE8",
+      "borderColor": "#00000000",
       "textColor": "#176BE8",
       "tagStyle": "bordered",
       "type": "filter"
@@ -593,7 +593,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‍‌‍‌‌⁤)(?!(?=.*(?:⁣‌‌‌‌‍‌‌‍⁤|⁣‌‌‌‍‌‌‌‍⁤))(?=.*(?:⁣‌‌‌‌‍‍‌‌⁤|⁣‌‌‌‌‍‍‌‍⁤)))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/audio/flac-lime.png",
       "tagColor": "#00000000",
-      "borderColor": "#176BE8",
+      "borderColor": "#00000000",
       "textColor": "#176BE8",
       "tagStyle": "bordered",
       "type": "filter"
@@ -606,7 +606,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‌‍‍‍‌⁤)(?!.*(?:⁣‌‌‌‌‍‍‌‌⁤|⁣‌‌‌‌‍‍‌‍⁤))(?!(?=.*(?:⁣‌‌‌‌‍‌‌‍⁤|⁣‌‌‌‍‌‌‌‍⁤))(?=.*⁣‌‌‌‍‌‍‌‌⁤))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/audio/dts-hd-lime.png",
       "tagColor": "#00000000",
-      "borderColor": "#2EB853",
+      "borderColor": "#00000000",
       "textColor": "#2EB853",
       "tagStyle": "bordered",
       "type": "filter"
@@ -619,7 +619,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‌‍‌‍‌⁤)(?!.*(?:⁣‌‌‌‌‍‌‌‍⁤|⁣‌‌‌‍‌‌‌‍⁤))(?!(?=.*(?:⁣‌‌‌‌‍‍‌‌⁤|⁣‌‌‌‌‍‍‌‍⁤|⁣‌‌‌‌‍‍‍‌⁤))(?=.*⁣‌‌‌‍‌‍‌‌⁤))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/audio/dolby-digital-plus-lime.png",
       "tagColor": "#00000000",
-      "borderColor": "#2EB853",
+      "borderColor": "#00000000",
       "textColor": "#2EB853",
       "tagStyle": "bordered",
       "type": "filter"
@@ -632,7 +632,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‌‍‍‍‍⁤)(?!.*(?:⁣‌‌‌‌‍‍‌‌⁤|⁣‌‌‌‌‍‍‌‍⁤|⁣‌‌‌‌‍‍‍‌⁤))(?!(?=.*(?:⁣‌‌‌‌‍‌‌‍⁤|⁣‌‌‌‍‌‌‌‍⁤|⁣‌‌‌‌‍‌‍‌⁤))(?=.*⁣‌‌‌‍‌‍‌‌⁤))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/audio/dts-es-lime.png",
       "tagColor": "#00000000",
-      "borderColor": "#FF7300",
+      "borderColor": "#00000000",
       "textColor": "#FF7300",
       "tagStyle": "bordered",
       "type": "filter"
@@ -645,7 +645,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‍‌‌‌‌⁤)(?!.*(?:⁣‌‌‌‌‍‍‌‌⁤|⁣‌‌‌‌‍‍‌‍⁤|⁣‌‌‌‌‍‍‍‌⁤|⁣‌‌‌‌‍‍‍‍⁤))(?!(?=.*(?:⁣‌‌‌‌‍‌‌‍⁤|⁣‌‌‌‍‌‌‌‍⁤|⁣‌‌‌‌‍‌‍‌⁤))(?=.*⁣‌‌‌‍‌‍‌‌⁤))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/audio/dts-lime.png",
       "tagColor": "#00000000",
-      "borderColor": "#FF7300",
+      "borderColor": "#00000000",
       "textColor": "#FF7300",
       "tagStyle": "bordered",
       "type": "filter"
@@ -658,7 +658,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‍‌‌‍‌⁤)(?!.*(?:⁣‌‌‌‌‍‌‌‍⁤|⁣‌‌‌‍‌‌‌‍⁤|⁣‌‌‌‌‍‌‍‌⁤|⁣‌‌‌‌‍‌‍‍⁤|⁣‌‌‌‌‍‍‌‌⁤|⁣‌‌‌‌‍‍‌‍⁤|⁣‌‌‌‌‍‍‍‌⁤|⁣‌‌‌‌‍‍‍‍⁤|⁣‌‌‌‍‌‌‌‌⁤|⁣‌‌‌‍‌‍‌‌⁤))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/audio/opus-lime.png",
       "tagColor": "#00000000",
-      "borderColor": "#FF7300",
+      "borderColor": "#00000000",
       "textColor": "#FF7300",
       "tagStyle": "bordered",
       "type": "filter"
@@ -671,7 +671,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‌‍‌‍‍⁤)(?!.*(?:⁣‌‌‌‌‍‌‌‍⁤|⁣‌‌‌‍‌‌‌‍⁤|⁣‌‌‌‌‍‌‍‌⁤))(?!(?=.*(?:⁣‌‌‌‌‍‍‌‌⁤|⁣‌‌‌‌‍‍‌‍⁤|⁣‌‌‌‌‍‍‍‌⁤|⁣‌‌‌‌‍‍‍‍⁤|⁣‌‌‌‍‌‌‌‌⁤))(?=.*⁣‌‌‌‍‌‍‌‌⁤))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/audio/dolby-digital-lime.png",
       "tagColor": "#00000000",
-      "borderColor": "#FF7300",
+      "borderColor": "#00000000",
       "textColor": "#FF7300",
       "tagStyle": "bordered",
       "type": "filter"
@@ -684,7 +684,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‍‌‌‍‍⁤)(?!.*(?:⁣‌‌‌‌‍‌‌‍⁤|⁣‌‌‌‍‌‌‌‍⁤|⁣‌‌‌‌‍‌‍‌⁤|⁣‌‌‌‌‍‌‍‍⁤|⁣‌‌‌‌‍‍‌‌⁤|⁣‌‌‌‌‍‍‌‍⁤|⁣‌‌‌‌‍‍‍‌⁤|⁣‌‌‌‌‍‍‍‍⁤|⁣‌‌‌‍‌‌‌‌⁤|⁣‌‌‌‍‌‍‌‌⁤|⁣‌‌‌‍‌‌‍‌⁤))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/audio/aac-lime.png",
       "tagColor": "#00000000",
-      "borderColor": "#FF7300",
+      "borderColor": "#00000000",
       "textColor": "#FF7300",
       "tagStyle": "bordered",
       "type": "filter"
@@ -697,7 +697,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‍‌‍‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/channels/7-1-green.png",
       "tagColor": "#00000000",
-      "borderColor": "#FFD500",
+      "borderColor": "#00000000",
       "textColor": "#FFD500",
       "tagStyle": "bordered",
       "type": "filter"
@@ -710,7 +710,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‍‌‍‍‌⁤)(?!.*(?:⁣‌‌‌‍‌‍‌‍⁤))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/channels/6-1-green.png",
       "tagColor": "#00000000",
-      "borderColor": "#176BE8",
+      "borderColor": "#00000000",
       "textColor": "#176BE8",
       "tagStyle": "bordered",
       "type": "filter"
@@ -723,7 +723,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‍‌‍‍‍⁤)(?!.*(?:⁣‌‌‌‍‌‍‌‍⁤|⁣‌‌‌‍‌‍‍‌⁤))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/channels/5-1-green.png",
       "tagColor": "#00000000",
-      "borderColor": "#2EB853",
+      "borderColor": "#00000000",
       "textColor": "#2EB853",
       "tagStyle": "bordered",
       "type": "filter"
@@ -736,7 +736,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‍‍‌‌‌⁤)(?!.*(?:⁣‌‌‌‍‌‍‌‍⁤|⁣‌‌‌‍‌‍‍‌⁤|⁣‌‌‌‍‌‍‍‍⁤))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/channels/2-0-green.png",
       "tagColor": "#00000000",
-      "borderColor": "#FF7300",
+      "borderColor": "#00000000",
       "textColor": "#FF7300",
       "tagStyle": "bordered",
       "type": "filter"
@@ -749,7 +749,7 @@
       "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:peacock|pcok)(?![a-z0-9]))))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/streaming/peacock-coral.png",
       "tagColor": "#00000000",
-      "borderColor": "#FCCC12",
+      "borderColor": "#00000000",
       "textColor": "#FCCC12",
       "tagStyle": "bordered",
       "type": "filter"
@@ -762,7 +762,7 @@
       "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:netflix|nflx|nf)(?![a-z0-9]))))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/streaming/netflix-coral.png",
       "tagColor": "#00000000",
-      "borderColor": "#E50914",
+      "borderColor": "#00000000",
       "textColor": "#E50914",
       "tagStyle": "bordered",
       "type": "filter"
@@ -775,7 +775,7 @@
       "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:amazon|amzn|prime[-_. ]?video)(?![a-z0-9]))))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/streaming/prime-video-coral.png",
       "tagColor": "#00000000",
-      "borderColor": "#00A8E1",
+      "borderColor": "#00000000",
       "textColor": "#00A8E1",
       "tagStyle": "bordered",
       "type": "filter"
@@ -788,7 +788,7 @@
       "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:apple[-_. ]?tv(?:\\+|plus)?|atvp)(?![a-z0-9]))))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/streaming/apple-tv-plus-coral.png",
       "tagColor": "#00000000",
-      "borderColor": "#A2AAAD",
+      "borderColor": "#00000000",
       "textColor": "#A2AAAD",
       "tagStyle": "bordered",
       "type": "filter"
@@ -801,7 +801,7 @@
       "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:disney(?:\\+|plus)?|dsnp)(?![a-z0-9]))))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/streaming/disney-plus-coral.png",
       "tagColor": "#00000000",
-      "borderColor": "#0063E5",
+      "borderColor": "#00000000",
       "textColor": "#0063E5",
       "tagStyle": "bordered",
       "type": "filter"
@@ -814,7 +814,7 @@
       "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:hbo[-_. ]?max|hbomax|hmax)(?![a-z0-9]))))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/streaming/hbo-max-coral.png",
       "tagColor": "#00000000",
-      "borderColor": "#A45CFF",
+      "borderColor": "#00000000",
       "textColor": "#A45CFF",
       "tagStyle": "bordered",
       "type": "filter"
@@ -827,7 +827,7 @@
       "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:hulu)(?![a-z0-9]))))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/streaming/hulu-coral.png",
       "tagColor": "#00000000",
-      "borderColor": "#1CE783",
+      "borderColor": "#00000000",
       "textColor": "#1CE783",
       "tagStyle": "bordered",
       "type": "filter"
@@ -840,7 +840,7 @@
       "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:paramount(?:\\+|plus)?|pmtp|pamp)(?![a-z0-9]))))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/streaming/paramount-plus-coral.png",
       "tagColor": "#00000000",
-      "borderColor": "#0064FF",
+      "borderColor": "#00000000",
       "textColor": "#0064FF",
       "tagStyle": "bordered",
       "type": "filter"
@@ -853,7 +853,7 @@
       "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:crunchyroll|croll)(?![a-z0-9]))))",
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/streaming/crunchyroll-coral.png",
       "tagColor": "#00000000",
-      "borderColor": "#F47521",
+      "borderColor": "#00000000",
       "textColor": "#F47521",
       "tagStyle": "bordered",
       "type": "filter"
@@ -867,7 +867,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/english-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -880,7 +880,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/japanese-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -893,7 +893,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/chinese-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -906,7 +906,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/russian-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -919,7 +919,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/arabic-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -932,7 +932,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/portuguese-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -945,7 +945,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/spanish-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -958,7 +958,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/french-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -971,7 +971,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/german-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -984,7 +984,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/italian-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -997,7 +997,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/korean-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1010,7 +1010,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/hindi-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1023,7 +1023,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/bengali-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1036,7 +1036,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/punjabi-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1049,7 +1049,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/marathi-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1062,7 +1062,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/tamil-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1075,7 +1075,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/telugu-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1088,7 +1088,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/kannada-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1101,7 +1101,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/malayalam-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1114,7 +1114,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/thai-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1127,7 +1127,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/vietnamese-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1140,7 +1140,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/indonesian-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1153,7 +1153,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/turkish-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1166,7 +1166,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/hebrew-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1179,7 +1179,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/persian-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1192,7 +1192,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/ukrainian-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1205,7 +1205,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/greek-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1218,7 +1218,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/lithuanian-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1231,7 +1231,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/polish-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1244,7 +1244,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/czech-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1257,7 +1257,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/slovak-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1270,7 +1270,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/hungarian-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1283,7 +1283,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/romanian-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1296,7 +1296,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/bulgarian-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1309,7 +1309,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/serbian-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1322,7 +1322,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/croatian-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1335,7 +1335,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/dutch-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1348,7 +1348,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/danish-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1361,7 +1361,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/finnish-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1374,7 +1374,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/swedish-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1387,7 +1387,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/norwegian-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1400,7 +1400,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/malay-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1413,7 +1413,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/language/latino-white.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1426,7 +1426,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/english-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1439,7 +1439,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/japanese-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1452,7 +1452,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/chinese-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1465,7 +1465,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/russian-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1478,7 +1478,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/arabic-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1491,7 +1491,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/portuguese-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1504,7 +1504,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/spanish-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1517,7 +1517,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/french-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1530,7 +1530,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/german-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1543,7 +1543,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/italian-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1556,7 +1556,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/korean-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1569,7 +1569,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/hindi-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1582,7 +1582,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/bengali-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1595,7 +1595,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/punjabi-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1608,7 +1608,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/marathi-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1621,7 +1621,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/tamil-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1634,7 +1634,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/telugu-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1647,7 +1647,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/kannada-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1660,7 +1660,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/malayalam-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1673,7 +1673,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/thai-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1686,7 +1686,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/vietnamese-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1699,7 +1699,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/indonesian-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1712,7 +1712,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/turkish-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1725,7 +1725,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/hebrew-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1738,7 +1738,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/persian-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1751,7 +1751,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/ukrainian-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1764,7 +1764,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/greek-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1777,7 +1777,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/lithuanian-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1790,7 +1790,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/polish-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1803,7 +1803,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/czech-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1816,7 +1816,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/slovak-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1829,7 +1829,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/hungarian-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1842,7 +1842,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/romanian-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1855,7 +1855,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/bulgarian-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1868,7 +1868,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/serbian-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1881,7 +1881,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/croatian-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1894,7 +1894,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/dutch-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1907,7 +1907,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/danish-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1920,7 +1920,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/finnish-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1933,7 +1933,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/swedish-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1946,7 +1946,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/norwegian-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1959,7 +1959,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/malay-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     },
@@ -1972,7 +1972,7 @@
       "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/subtitle/latino-orange.png",
       "type": "filter",
       "tagColor": "#00000000",
-      "borderColor": "#BBDEFB",
+      "borderColor": "#00000000",
       "textColor": "#BBDEFB",
       "tagStyle": "bordered"
     }
