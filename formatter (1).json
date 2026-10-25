@@ -1,0 +1,4 @@
+{
+  "name": "{stream.seeders::exists[\"{stream.seeders} 🆂 • \"||\"\"]}{addon.name}",
+  "description": "{stream.languageEmojis::join(' / ')::replace('🌎', 'Multi')}"
+}
