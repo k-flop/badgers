@@ -37,7 +37,7 @@ The same as [Type2Color](https://github.com/k-flop/badgers#type2color) but white
 Just copy the link to the following and add them in Nuvio<br>On mobile, go to Settings > Layout > Streams > Fusion badge URLs<br>Or if you're on a desktop uhh... I don't know you tell me on [this discussion](https://github.com/k-flop/badgers/discussions/3)
 
 ### All collection links
-> The Type2 `_v2.json` collections need a formatter that adds invisible markers (see `normal_formatter.json` and the other formatter files). If you don't use one, take the plain-text Type2 collections at the bottom of this list.
+> Type2 collections read the visible stream text (no formatter needed), so they work with any AIOStreams setup. Language and subtitle badges are matched by language name, flag emoji or a few language codes; a subtitle badge needs "Sub"/"Subs"/"Subtitles" before the language on the same line.
 
 **Type1Color**
 - Color outline: color badges, transparent tag, colored border<br>`https://raw.githubusercontent.com/k-flop/badgers/main/colored_outline_badges.json`
@@ -56,14 +56,6 @@ Just copy the link to the following and add them in Nuvio<br>On mobile, go to Se
 - White outline on dark<br>`https://raw.githubusercontent.com/k-flop/badgers/main/white_badges_v2.json`
 - White badges with colored borders<br>`https://raw.githubusercontent.com/k-flop/badgers/main/badge_v2.json`
 - White badges on a solid black tag<br>`https://raw.githubusercontent.com/k-flop/badgers/main/black_badges_v2.json`
-
-**Type2 without a formatter (plain text)**
-Same as Type2, but the patterns read the stream text directly, so they work with any AIOStreams setup. Includes extra languages plus Multi / Dual Audio / Dubbed. Language vs. subtitle is guessed from the word "sub" near the language, so it can be less exact than the formatter version.
-- Color outline<br>`https://raw.githubusercontent.com/k-flop/badgers/main/colored_outline_badges_v2_plain.json`
-- Tinted<br>`https://raw.githubusercontent.com/k-flop/badgers/main/tinted_badges_v2_plain.json`
-- White outline on dark<br>`https://raw.githubusercontent.com/k-flop/badgers/main/white_badges_v2_plain.json`
-- White badges with colored borders<br>`https://raw.githubusercontent.com/k-flop/badgers/main/badge_v2_plain.json`
-- White badges on a solid black tag<br>`https://raw.githubusercontent.com/k-flop/badgers/main/black_badges_v2_plain.json`
 
 random appreciation message for Kingsize, for making the foundation of this badge collection
 > psst... do you want a type 3? a version without streaming badges? tell me!
