@@ -29,7 +29,7 @@ You're gonna be surprised when I say this...........
 The same as [Type2Color](https://github.com/k-flop/badgers#type2color) but white
 
 # Get your badges.... I know you want them...
-Just copy the link to the following and add them in Nuvio<br>On mobile, go to Settings > Layout > Streams > Fusion badge URLs<br>Or if you're on a desktop
+Just copy the link to the following and add them in Nuvio<br>On mobile, go to Settings > Layout > Streams > Fusion badge URLs<br>Or if you're on a desktop uhh... I don't know you tell me on [this discussion](https://github.com/k-flop/badgers/discussions/3)
 
 ### All collection links
 
