@@ -1,4 +1,5 @@
 # Badgers
+![Type1Color badge version preview](https://raw.githubusercontent.com/k-flop/badgers/refs/heads/main/docs/previews/type1-color.png)
 a [Nuvio](https://github.com/NuvioMedia) badges collection that was designed by a human, not by ChatGPT Luna ... ⏰
 cause... we hate AI slop, don't we?
 > I have to say that, even tho this project mentions AI hate, Claude Code was used to bring this to life. I simply don't understand GitHub. But hey, atleast the badges are human, not like SOME other badge collections that are 100% AI made!
@@ -9,6 +10,7 @@ fork of [Kingsize's badges](https://github.com/kingsizew/badges) (just used for 
 ## Types of the badges
 Badgers come in two versions (1 and 2) with two variants (white and color). Four in total.
 ### Type1Color
+![Preview](https://raw.githubusercontent.com/k-flop/badgers/refs/heads/main/docs/previews/type1-color.png)
 A color variant with
 - Visual
 - Quality
@@ -18,12 +20,15 @@ A color variant with
 - Streaming platforms
 - and IMAX?
 ### Type1White
+![Preview](https://raw.githubusercontent.com/k-flop/badgers/refs/heads/main/docs/previews/type1-white.png)
 The same as [Type1Color](https://github.com/k-flop/badgers/#type1color), but white... obviously 
 ### Type2Color
+![Preview](https://raw.githubusercontent.com/k-flop/badgers/refs/heads/main/docs/previews/type2-color.png)
 Ooooh, it's no longer Type 1!! It's gonna be so exciting!!<br>Not really :(<br>Just two more additions
 - Languages
 - Subtitle Languages
 ### Type2White
+![Preview](https://raw.githubusercontent.com/k-flop/badgers/refs/heads/main/docs/previews/type2-white.png)
 You're gonna be surprised when I say this...........
 
 The same as [Type2Color](https://github.com/k-flop/badgers#type2color) but white
