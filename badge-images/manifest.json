@@ -608,5 +608,25 @@
     "rawURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/streaming/crunchyroll.png?rev=1f05fb1cae0c",
     "width": 706,
     "height": 150
+  },
+  {
+    "id": "s-bili",
+    "name": "BILIBILI",
+    "groupId": "gs",
+    "groupFolder": "streaming",
+    "path": "badge-images/streaming/bilibili.png",
+    "rawURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/streaming/bilibili.png?rev=a4a29e397905",
+    "width": 640,
+    "height": 150
+  },
+  {
+    "id": "s-iqiyi",
+    "name": "IQIYI",
+    "groupId": "gs",
+    "groupFolder": "streaming",
+    "path": "badge-images/streaming/iqiyi.png",
+    "rawURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/streaming/iqiyi.png?rev=297c1be7d53d",
+    "width": 356,
+    "height": 150
   }
 ]
