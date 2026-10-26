@@ -843,6 +843,32 @@
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
       "type": "filter"
+    },
+    {
+      "id": "s-bili",
+      "name": "BILIBILI",
+      "groupId": "gs",
+      "isEnabled": true,
+      "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:bilibili|bstation|blbl)(?![a-z0-9]))))",
+      "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/streaming/bilibili.png?rev=a4a29e397905",
+      "tagColor": "#000000",
+      "borderColor": "#FFFFFF",
+      "textColor": "#FFFFFF",
+      "tagStyle": "bordered",
+      "type": "filter"
+    },
+    {
+      "id": "s-iqiyi",
+      "name": "IQIYI",
+      "groupId": "gs",
+      "isEnabled": true,
+      "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:iqiyi|iqy)(?![a-z0-9]))))",
+      "imageURL": "https://raw.githubusercontent.com/k-flop/badgers/main/badge-images/streaming/iqiyi.png?rev=297c1be7d53d",
+      "tagColor": "#000000",
+      "borderColor": "#FFFFFF",
+      "textColor": "#FFFFFF",
+      "tagStyle": "bordered",
+      "type": "filter"
     }
   ]
 }
