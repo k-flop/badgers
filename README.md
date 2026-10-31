@@ -34,27 +34,27 @@ You're gonna be surprised when I say this...........
 The same as [Type2Color](https://github.com/k-flop/badgers#type2color) but white
 
 # Get your badges.... I know you want them...
-Just copy the link to the following and add them in Nuvio<br>On mobile, go to Settings > Layout > Streams > Fusion badge URLs<br>Or if you're on a desktop uhh... I don't know you tell me on [this discussion](https://github.com/k-flop/badgers/discussions/3)
+Just copy the link to the following and add them in Nuvio<br>On mobile, go to Look → Layout → Streams → Fusion badge URLs<br>On TV also go to Settings → Layout → Streams → Fusion badge URLs<br><br>On desktop... well... I don't know...<br>Look around Settings until you find it, and if you do (I'ts really probable you do), please let me know on [this discussion](https://github.com/k-flop/badgers/discussions/3), so then I can give the instructions here and we'll all be happy! Yay!
 
 ### All collection links
 
 **Type1Color**
-- Color outline: color badges, transparent tag, colored border<br>`https://raw.githubusercontent.com/k-flop/badgers/main/colored_outline_badges.json`
-- Tinted: color badges on a faint tinted fill<br>`https://raw.githubusercontent.com/k-flop/badgers/main/tinted_badges.json`
+- Colors:D = Colors on everything, just like the example<br>`https://raw.githubusercontent.com/k-flop/badgers/main/colored_outline_badges.json`
+- Semitransparent = Colors but a little bit of a background because I was in the mood<br>`https://raw.githubusercontent.com/k-flop/badgers/main/tinted_badges.json`
 
 **Type1White**
-- White outline on dark<br>`https://raw.githubusercontent.com/k-flop/badgers/main/white_badges.json`
-- White badges with colored borders<br>`https://raw.githubusercontent.com/k-flop/badgers/main/badge.json`
-- White badges on a solid black tag<br>`https://raw.githubusercontent.com/k-flop/badgers/main/black_badges.json`
+- White white white white<br>`https://raw.githubusercontent.com/k-flop/badgers/main/white_badges.json`
+- A little bit of this and a little bit of that (White on a colored outline)<br>`https://raw.githubusercontent.com/k-flop/badgers/main/badge.json`
+- White but blackground<br>`https://raw.githubusercontent.com/k-flop/badgers/main/black_badges.json`
 
 **Type2Color**
-- Color outline<br>`https://raw.githubusercontent.com/k-flop/badgers/main/colored_outline_badges_v2.json`
-- Tinted<br>`https://raw.githubusercontent.com/k-flop/badgers/main/tinted_badges_v2.json`
+- Colors:D<br>`https://raw.githubusercontent.com/k-flop/badgers/main/colored_outline_badges_v2.json`
+- Semitransparent<br>`https://raw.githubusercontent.com/k-flop/badgers/main/tinted_badges_v2.json`
 
 **Type2White**
-- White outline on dark<br>`https://raw.githubusercontent.com/k-flop/badgers/main/white_badges_v2.json`
-- White badges with colored borders<br>`https://raw.githubusercontent.com/k-flop/badgers/main/badge_v2.json`
-- White badges on a solid black tag<br>`https://raw.githubusercontent.com/k-flop/badgers/main/black_badges_v2.json`
+- White white white white<br>`https://raw.githubusercontent.com/k-flop/badgers/main/white_badges_v2.json`
+- A little bit of this and a little bit of that (White with colored borders)<br>`https://raw.githubusercontent.com/k-flop/badgers/main/badge_v2.json`
+- White but blackground<br>`https://raw.githubusercontent.com/k-flop/badgers/main/black_badges_v2.json`
 
 random appreciation message for Kingsize, for making the foundation of this badge collection
 > psst... do you want a type 3? a version without streaming badges? tell me!
